@@ -6,3 +6,6 @@ This is a project powered by Three.js and WebGL. All objects within this project
 [Demo](http://sanderblue.github.io/solar-system-threejs/)
 
 ![Image](http://sanderblue.github.io/assets/screenshots/screenshot_solarsystem_saturn.png)
+
+
+this was a code i found on the internet , i made some changes to this code and modified some stuff's
